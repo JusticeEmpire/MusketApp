@@ -79,7 +79,7 @@ DATABASES = {
         'ENGINE': 'django.db.backends.mysql',
         'NAME': 'musketsitedjangodb',
         'USER': 'root',
-        'PASSWORD': 'rootpass'
+        'PASSWORD': 'rootpass',
         #'HOST': '',
         #'PORT': '',
     }
